@@ -12,7 +12,7 @@ import java.util.*;
  */
 // Dit is de controllerklasse van het BackOffice subsysteem
 public class BackOfficeController {
- //test
+ //testrgrg
 	private static int WEEK_PAGE_SIZE = 2; 	// Constante die vastlegt hoeveel weken weekaanbod wordt teruggegeven.
 
 
