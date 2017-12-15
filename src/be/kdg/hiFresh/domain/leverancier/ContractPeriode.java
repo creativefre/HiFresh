@@ -22,7 +22,7 @@ public class ContractPeriode {
 	 */
 	private Contract contract;
 
-
+//testegit
 	public ContractPeriode(
 		double prijs,
 		LocalDate van,

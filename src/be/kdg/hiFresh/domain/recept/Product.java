@@ -12,7 +12,7 @@ public class Product {
 
 	// TODO: implementeer klasse
 
-
+//testgit
 
 	public Product(String naam,MonthDay startHoogseizoen,MonthDay eindeHoogseizoen, Hoeveelheid
 		stdHoeveelheid) {
